@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1682888002928,
+  "timestamp": 1682925074285,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -82,7 +82,7 @@
         "/9958.7547b6ce95813be4.js",
         "/common.490bd843d4135bb3.js",
         "/index.html",
-        "/main.8253f98c73c67f1d.js",
+        "/main.5c3c9fe1a25d45ef.js",
         "/manifest.webmanifest",
         "/polyfills-core-js.9b71ceed1de7450c.js",
         "/polyfills-dom.5c5f23fb57b03028.js",
@@ -234,8 +234,8 @@
     "/assets/servicios/terraza.jpg": "86b4dd913b4da40549939f14f64f4dc697f213cc",
     "/common.490bd843d4135bb3.js": "a09e3969d631743fc757e5dca0a7942fabb99f72",
     "/hostal-casa-corzin.7f1b6c7f66d8b1bd.jpg": "04ffa1c51f75eba7e948a19fffdcf4c613b03a19",
-    "/index.html": "45d597cc333ab634fea091c9a09d268a651e8fb1",
-    "/main.8253f98c73c67f1d.js": "048f71eb5df2f0e81751f78172ee0d4df03c8e6d",
+    "/index.html": "78c8d72eabfbe6086605e3411373f4fd21a8fd73",
+    "/main.5c3c9fe1a25d45ef.js": "430b7651dd8decd6a05906de82d7a887d795e9fd",
     "/manifest.webmanifest": "58e118064acbfe8f09728fdf70c42d7222c793d0",
     "/polyfills-core-js.9b71ceed1de7450c.js": "468569373464d87d7b70e6e53a64e3de1e487d3f",
     "/polyfills-dom.5c5f23fb57b03028.js": "06f5dc30f55bf9a3d9c6f9bca07c0041a6bbdaa0",
